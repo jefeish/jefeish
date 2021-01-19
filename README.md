@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
 #### @jefeish
 
 ![](https://komarev.com/ghpvc/?username=jefeish)
